@@ -1,3 +1,4 @@
 hello git!git
+<<<<<<< HEAD
 git     master    
 hot-fix 111 
